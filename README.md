@@ -1,5 +1,4 @@
 # hello-world
-My first into to Github 
+Typing into this file to learn about branching in GitHub.
 
-
-I am typing this edit here because the tutorial told me to.
+I need to learn this system if I am to become a proficient coder.
